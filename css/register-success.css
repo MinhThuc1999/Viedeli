@@ -1,0 +1,33 @@
+.main{
+    background: url('../images/back.jpg') no-repeat;
+}
+.main--success{
+    padding: 250px 0;
+    text-align: center;
+}
+.main--success p i{
+    display: inline-block;
+    text-align: center;
+   width: 45px;
+   height: 45px;
+   border-radius: 50%;
+   border: 1px solid var(--primary-color);
+   line-height: 45px;
+   margin-bottom: 20px;
+}
+.main--success p .fa{
+    font-size: 26px;
+    color: var(--primary-color);
+    text-align: center;
+}
+.main--success h1{
+    font-size: 48px;
+    font-family: "Lato Light", sans-serif;
+    color: #292929;
+    margin-bottom: 50px;
+}
+.main--success p:last-child{
+    font-size: 18px;
+    color: #292929;
+    margin-top: 35px;
+}

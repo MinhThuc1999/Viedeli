@@ -1,0 +1,80 @@
+
+
+.main-top{
+    background: url('../images/back.jpg') no-repeat;
+    background-size: cover;
+    padding-bottom: 70px;
+}
+.main-top .main-top__left{
+    padding-top: 105px;
+    padding-right: 90px;
+}
+.main-top .main-top__right{
+    padding-top: 65px;
+}
+.main-top .main-top__left h2{
+    font-size: 36px;
+    font-family: "Lato Bold", sans-serif;
+    color: #181818;
+    margin-bottom: 15px;
+}
+ul.link li a{
+    color: #acacac;
+}
+.main-top .main-top__left p{
+    margin-top: 40px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #363434;
+    text-align: justify;
+    margin-bottom: 60px;
+}
+.main-top .main-top__left .category{
+    width: 65%;
+    border-bottom: 2px solid var(--primary-color);
+}
+.main-top .main-top__left .category ul.sub li a{
+    color: var(--primary-color);
+    font-size: 18px;
+}
+.main-top .main-top__left .category ul.sub {
+    padding-bottom: 14px;
+
+}
+.main-top .main-top__left .category ul.sub li:last-child{
+    float: right;
+    margin-right: 15px;
+}
+.server-box__list .list--item h3{
+    font-size: 24px;
+    font-family: "Lato Bold", sans-serif;
+    color: #2a2c31;
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+.server-box__list .list--item p{
+    font-size: 16px;
+    color: #696154;
+    margin-bottom: 35px;
+}
+.server-box__list .list--item span.more a{
+    border: 2px solid #ccb895;
+    padding: 15px 20px;
+    color: #91846d;
+    font-size: 14px;
+}
+.server-box .service{
+    text-align: center;
+    padding-top: 140px;
+}
+.server-box .service p{
+    font-size: 36px;
+    font-family: "Lato Light", sans-serif;
+    color: #262424;
+    margin-bottom: 25px;
+}
+.server-box .service span{
+    color: #4e4e4e;
+    font-size: 16px;
+    
+}
