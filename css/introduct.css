@@ -1,0 +1,124 @@
+.main-title {
+    padding: 90px 0px 20px 0px;
+}
+
+.main-title h2 {
+    margin-bottom: 14px;
+}
+
+.posts-title .posts-title--left {
+    padding-top: 75px;
+}
+
+.posts-title .posts-title--left p {
+    font-size: 16px;
+    color: #373737;
+}
+
+.posts-title .posts-title--right {
+    text-align: right;
+}
+
+.introduct-top {
+    text-align: center;
+    padding: 0px 80px;
+}
+
+.introduct-top .introduct-top--title p {
+    font-size: 48px;
+    font-family: "Lato Light", sans-serif;
+    color: #4e4e4e;
+    margin-top: 15px;
+    margin-bottom: 110px;
+}
+
+.introduct-top .introduct-top--bot p:first-child,
+.introduct-bottom .introduct-bottom--top p:first-child
+ {
+    font-size: 48px;
+    font-family: "Lato Light", sans-serif;
+    color: #373737;
+    margin-top: 152px;
+    margin-bottom: 40px;
+}
+
+.introduct-top .introduct-top--bot p:last-child,
+.introduct-bottom .introduct-bottom--top p:last-child
+ {
+    font-size: 16px;
+    color: #373737;
+}
+
+.introduct-main {
+    background: url('../images/introduct/intro-bottom.jpg') no-repeat;
+    background-size: cover;
+    min-height: 730px;
+    padding: 200px 29%;
+    margin-top: 150px;
+}
+
+.introduct-main .introduct--block{
+  padding: 50px 90px;
+  background: #fff;
+  text-align: center;
+}
+.introduct-main .introduct--block p:first-child{
+    font-size: 48px;
+    color: #373737;
+    font-family: "Lato Light", sans-serif;
+    margin-bottom: 50px;
+}
+.introduct-main .introduct--block p:last-child{
+    font-size: 16px;
+    font-family: "Lato Light", sans-serif;
+    color: #373737;
+}
+.introduct-bottom--top{
+    text-align: center;
+}
+.introduct-bottom--main{
+    text-align: center;
+    margin-top: 70px;
+}
+.introduct-bottom--main .introduct__item {
+    position: relative;
+    padding-top: 14px;
+}
+.introduct-bottom--main .introduct__item .content{
+    border-top: 2px solid #e3e0dd;
+    border-bottom: 2px solid #e3e0dd;
+   padding: 70px 30px 50px;
+    margin-top: 30px;
+  
+}
+.introduct-bottom--main .introduct__item img{
+    position: absolute;
+    top:0;
+    left: 145px;
+}
+.introduct-bottom--main .introduct__item h3{
+    font-size: 18px;
+    color: #373737;
+    font-family: "Lato Bold", sans-serif;
+margin-bottom: 35px;
+}
+.introduct-bottom--main .introduct__item p{
+    font-size: 16px;
+    color: #373737;
+    line-height: 1.5;
+}
+
+.introduct-bottom--bottom{
+    text-align: center;
+   padding: 105px 300px;
+}
+.introduct-bottom--bottom p:first-child{
+    font-size: 36px;
+    font-family: "Lato Light", sans-serif;
+    color: #262424;
+    margin-bottom: 25px;
+}
+.introduct-bottom--bottom p:last-child{
+    color: #4e4e4e;
+    font-size: 16px;
+}
