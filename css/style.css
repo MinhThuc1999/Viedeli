@@ -58,24 +58,32 @@
 
 } */
 
-.header .header__hotline span, .contact-box--form .contact-box--form__hotline span{
+.header .header__hotline span, .contact-box--form .contact-box--form__hotline span,
+.box__right .contact-box--form--button-wrap .contact-box--form__hotline span
+{
     display: block;
 }
 
-.header .header__hotline span:first-child, .contact-box--form .contact-box--form__hotline span:first-child{
+.header .header__hotline span:first-child, .contact-box--form .contact-box--form__hotline span:first-child,
+.box__right .contact-box--form--button-wrap .contact-box--form__hotline span:first-child
+{
     color: #767676;
     font-size: 13px;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
-.header .header__hotline span:last-child, .contact-box--form .contact-box--form__hotline span:last-child{
+.header .header__hotline span:last-child, .contact-box--form .contact-box--form__hotline span:last-child,
+.box__right .contact-box--form--button-wrap .contact-box--form__hotline span:last-child
+{
     color: var(--primary-color);
     font-size: 20px;
     font-family: "Lato Bold", sans-serif;
 }
 
-.header .header__hotline::before, .contact-box--form .contact-box--form__hotline::before{
+.header .header__hotline::before, .contact-box--form .contact-box--form__hotline::before,
+.box__right .contact-box--form--button-wrap .contact-box--form__hotline::before
+{
     content: '';
     display: block;
     width: 35px;
