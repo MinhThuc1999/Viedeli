@@ -1,0 +1,51 @@
+@media all and (max-width: 767px) {
+    
+}
+@media all and (min-width: 768px) and (max-width: 992px) {
+
+}
+
+/*Desktop Small*/
+@media all and (min-width: 993px) and (max-width: 1200px) {
+
+}
+
+
+/*
+Media query chung
+*/
+@media all and (max-width: 1200px){
+    main,footer{
+        padding: 0 10px;
+    }
+    .introduct-top .introduct-top--title p{
+        font-size: 30px;
+    }
+    .introduct-top{
+        padding: 0 0;
+    }
+    .introduct-top .introduct-top--bot p:first-child, .introduct-bottom .introduct-bottom--top p:first-child{
+        font-size: 35px;
+    }
+    .introduct-main{
+        padding: 50% 0;
+    }
+    .introduct-main .introduct--block{
+        padding: 15px 20px;
+    }
+    .introduct-main .introduct--block p:first-child{
+        font-size: 25px;
+    }
+    .introduct-main .introduct--block p:last-child{
+        font-size: 13px;
+    }
+    .introduct-bottom--main .introduct__item{
+        margin-bottom: 60px;
+    }
+    .introduct-bottom--bottom{
+        padding: 0px 60px;
+    }
+    .introduct-bottom--bottom p:first-child{
+        font-size: 30px;
+    }
+}

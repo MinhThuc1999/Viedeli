@@ -16,6 +16,7 @@
 
 .header .header__nav {
     padding: 10px 0px;
+    overflow: hidden;
 }
 
 .header .header__nav ul li {
