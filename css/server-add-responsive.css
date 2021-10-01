@@ -1,5 +1,7 @@
 @media all and (max-width: 767px) {
-    
+    .contact__box .img{
+        padding: 60px;
+    }
 }
 @media all and (min-width: 768px) and (max-width: 992px) {
 
@@ -21,4 +23,12 @@ Media query chung
    .server-box .server-box__list .list--item{
        margin-bottom: 50px;
    }
+   .post-list {
+    padding: 50px 0px;
+}
+.post-list .post-list__content .post-list__content--block img{
+    padding: 0;
+}
+
+
 }

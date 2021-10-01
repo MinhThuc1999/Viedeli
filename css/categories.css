@@ -1,0 +1,51 @@
+.main-title h2{
+    text-align: unset;
+    padding-top: 115px;
+    padding-bottom: 10px;
+}
+.categories-main .post--categories{
+    margin-bottom: 30px;
+}
+.categories-main .post--categories .title p{
+    float: right;
+    font-family: "Lato Bold", sans-serif;
+    font-size: 13px;
+    color: #2a2c31;
+    transform: translateY(-13px);
+}
+.categories-main .post--categories  .post--categories__list{
+    border-top: 2px solid #e2e0d7;
+    padding-top: 25px;
+    margin-top: 10px;
+}
+.categories-main .post--categories  .post--categories__list p {
+    margin-bottom: 25px;
+    font-family: "Lato Bold", sans-serif;
+    font-size: 16px;
+    color: #2a2c31;
+}
+.categories-main .post--categories  .post--categories__list h4{
+    font-family: "Lato Bold", sans-serif;
+    font-size: 16px;
+    color: #2a2c31;
+    margin-bottom: 10px;
+}
+.categories-main .post--categories  .post--categories__list p.price{
+    font-size: 16px;
+    color: #696154;
+}
+
+.introduct-bottom--bottom{
+    text-align: center;
+   padding: 90px 0px;
+}
+.introduct-bottom--bottom p:first-child{
+    font-size: 36px;
+    font-family: "Lato Light", sans-serif;
+    color: #262424;
+    margin-bottom: 25px;
+}
+.introduct-bottom--bottom p:last-child{
+    color: #4e4e4e;
+    font-size: 16px;
+}
